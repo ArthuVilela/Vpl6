@@ -2,6 +2,7 @@
  * Este arquivo contem testes para o VPL. Ele nao deve ser modificado em
  * hipotese alguma. Voce pode usa-lo para testar seu VPL localmente.
  */
+//comment
 
 #include <iostream>
 
