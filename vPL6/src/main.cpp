@@ -3,7 +3,7 @@
  * hipotese alguma. Voce pode usa-lo para testar seu VPL localmente.
  */
 //comment
-
+//comment 2
 #include <iostream>
 
 #include "util.hpp"
